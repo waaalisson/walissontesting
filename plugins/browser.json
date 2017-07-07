@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "walisson.walissontesting"
+        }
+    }
+}
